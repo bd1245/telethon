@@ -1,6 +1,6 @@
 {
-  "name": "IQTHON TELETHON ARAB",
-  "description": "اهلا بك في ويلسون العرب الأصلي { @iqthon }",
+  "name": "𝑾𝑬𝑳𝑺𝑶𝑵 𝑬𝑳𝑨𝑹𝑨𝑩",
+  "description": "اهلا بك في ويلسون العرب الأصلي { @kyany_el5as }",
   "logo": "https://telegra.ph/file/aa0ee1b06ddcdcb40189a.jpg",
   "keywords": ["plugin","modular","productivity"],
   "repository": "https://github.com/help-iq2/telethon",
@@ -12,7 +12,7 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "هنا ضع الايبي ايدي الخاص بك يتكون من ارقام", 
+      "description": "هنا ضع الايبي ايدي الخاص بك يتكون من 8 ارقام", 
       "value": ""
     },
     "API_HASH": {
@@ -37,7 +37,7 @@
     },
     "TZ": {
       "description": "ضع القاره / عاصمة بلدك ( اذا كنت لاتعرفه اتركة كما هوة )",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
